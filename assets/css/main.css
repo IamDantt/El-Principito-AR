@@ -126,7 +126,7 @@ input, select, textarea {
 
 	strong, b {
 		font-weight: 400;
-		font-size: 3rem;
+		font-size: 2rem;
 	}
 
 	.info{
@@ -2048,8 +2048,8 @@ input, select, textarea {
 
 		ul.icons li {
 			display: inline-block;
-			height: 100px;
-			width: 100px;
+			height: 50px;
+			width: 50px;
 			line-height: 1em;
 			padding-left: 0.5em;
 		}
@@ -2528,8 +2528,8 @@ input, select, textarea {
 /* Banner */
 
 	.Title-img{
-		height: 400px;
-		width: auto;
+		height: 100%;
+		width: 100%;
 	}
 
 	@-moz-keyframes reveal-banner {
@@ -2692,12 +2692,12 @@ input, select, textarea {
 	#footer {
 		background: #E8EEF4;
 		color: #7c8081;
-		padding: 5em 5em 10em 5em;
+		padding: 1em 1em 1em 1em;
 		text-align: center;
 	}
 
 		#footer .copyright {
-			font-size: 0.8em;
+			font-size: 0.5em;
 			line-height: 1em;
 		}
 
@@ -2726,7 +2726,7 @@ input, select, textarea {
 		/* Basic */
 
 			body, input, select, textarea {
-				font-size: 14pt;
+				font-size: 10pt;
 			}
 
 		/* Section/Article */
@@ -2745,7 +2745,7 @@ input, select, textarea {
 		/* Basic */
 
 			body, input, select, textarea {
-				font-size: 13pt;
+				font-size: 10pt;
 				letter-spacing: 0.025em;
 				line-height: 1.65em;
 			}
